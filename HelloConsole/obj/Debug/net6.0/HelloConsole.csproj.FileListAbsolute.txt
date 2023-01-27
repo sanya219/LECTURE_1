@@ -1,0 +1,15 @@
+/Users/alexd/Documents/GeekBrains/03. Знакомство с языками программирования/Lecture_1/HelloConsole/bin/Debug/net6.0/HelloConsole
+/Users/alexd/Documents/GeekBrains/03. Знакомство с языками программирования/Lecture_1/HelloConsole/bin/Debug/net6.0/HelloConsole.deps.json
+/Users/alexd/Documents/GeekBrains/03. Знакомство с языками программирования/Lecture_1/HelloConsole/bin/Debug/net6.0/HelloConsole.runtimeconfig.json
+/Users/alexd/Documents/GeekBrains/03. Знакомство с языками программирования/Lecture_1/HelloConsole/bin/Debug/net6.0/HelloConsole.dll
+/Users/alexd/Documents/GeekBrains/03. Знакомство с языками программирования/Lecture_1/HelloConsole/bin/Debug/net6.0/HelloConsole.pdb
+/Users/alexd/Documents/GeekBrains/03. Знакомство с языками программирования/Lecture_1/HelloConsole/obj/Debug/net6.0/HelloConsole.csproj.AssemblyReference.cache
+/Users/alexd/Documents/GeekBrains/03. Знакомство с языками программирования/Lecture_1/HelloConsole/obj/Debug/net6.0/HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexd/Documents/GeekBrains/03. Знакомство с языками программирования/Lecture_1/HelloConsole/obj/Debug/net6.0/HelloConsole.AssemblyInfoInputs.cache
+/Users/alexd/Documents/GeekBrains/03. Знакомство с языками программирования/Lecture_1/HelloConsole/obj/Debug/net6.0/HelloConsole.AssemblyInfo.cs
+/Users/alexd/Documents/GeekBrains/03. Знакомство с языками программирования/Lecture_1/HelloConsole/obj/Debug/net6.0/HelloConsole.csproj.CoreCompileInputs.cache
+/Users/alexd/Documents/GeekBrains/03. Знакомство с языками программирования/Lecture_1/HelloConsole/obj/Debug/net6.0/HelloConsole.dll
+/Users/alexd/Documents/GeekBrains/03. Знакомство с языками программирования/Lecture_1/HelloConsole/obj/Debug/net6.0/refint/HelloConsole.dll
+/Users/alexd/Documents/GeekBrains/03. Знакомство с языками программирования/Lecture_1/HelloConsole/obj/Debug/net6.0/HelloConsole.pdb
+/Users/alexd/Documents/GeekBrains/03. Знакомство с языками программирования/Lecture_1/HelloConsole/obj/Debug/net6.0/HelloConsole.genruntimeconfig.cache
+/Users/alexd/Documents/GeekBrains/03. Знакомство с языками программирования/Lecture_1/HelloConsole/obj/Debug/net6.0/ref/HelloConsole.dll
